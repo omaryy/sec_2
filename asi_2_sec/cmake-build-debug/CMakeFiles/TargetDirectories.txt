@@ -1,0 +1,3 @@
+C:/Users/omar/CLionProjects/asi_2_sec/cmake-build-debug/CMakeFiles/asi_2_sec.dir
+C:/Users/omar/CLionProjects/asi_2_sec/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omar/CLionProjects/asi_2_sec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
